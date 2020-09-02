@@ -1,5 +1,6 @@
 # Ad-Click-Fraud
 Copyright 2020 All rights reserved Google Slides
+
 Data set:
 https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection/data
 
